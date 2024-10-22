@@ -96,7 +96,7 @@ To test the API you can use tools like Insomnia, Postman or curl. Here's an exam
 
 [Front-end Repo](https://github.com/brightneon7631/odin-blog-api-frontend)
 
-[Live Demo]
+[Live Demo](https://bn7631-odin-travel-blog-api.pages.dev)
 
 ## Deployment
 
