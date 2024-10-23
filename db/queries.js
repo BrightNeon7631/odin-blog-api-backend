@@ -42,7 +42,7 @@ const queryCreateUser = async (name, email, password, isAdmin = false) => {
     data: {
       name: name,
       email: email,
-      //password: password,
+      password: password,
       isAdmin: isAdmin,
     },
   });
@@ -299,7 +299,6 @@ module.exports = {
   queryGetAllPublishedPosts,
   queryGetAllPosts,
   queryGetPostById,
-  //queryGetPostsByAuthorId,
   queryUpdatePost,
   queryDeletePost,
 
