@@ -96,8 +96,6 @@ To test the API you can use tools like Insomnia, Postman or curl. Here's an exam
 
 [Front-end Repo](https://github.com/brightneon7631/odin-blog-api-frontend)
 
-[Live Demo](https://bn7631-odin-travel-blog-api.pages.dev)
-
 ## Deployment
 
 Requires setting up a PostreSQL database and adding its URL to the .env file. Instructions for Linux and macOS can be found [here on The Odin Project website](https://www.theodinproject.com/lessons/nodejs-installing-postgresql).
